@@ -1,3 +1,3 @@
-# Sun Charge Me
+# Philadelphia Bikesmith
 
-This is the home of [suncharge.me](http://suncharge.me/).  Solar Power Baby!!!
+The magic behind http://www.philadelphiaBikesmith.com
